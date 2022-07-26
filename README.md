@@ -15,10 +15,10 @@
 
 Reach out to me directly through:
 
-<a href="mailto:shahzeb.naqvi12@gmail.com" target="_blank">
+<a href="mailto:muhammadyousufgemini@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/shahzebnaqvi/" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-yousuf-487b12175/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
